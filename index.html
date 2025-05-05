@@ -17,8 +17,7 @@
 <div id='map'></div>
 
 <script>
-// Remplacez cette clé par votre propre clé API Mapbox en production
-mapboxgl.accessToken = 'pk.eyJ1IjoibWFwYm94dXNlciIsImEiOiJjbGZ4NjFxZjEwZ2RlM2VxdDNxb3U0b3YxIn0.wuKVEkRR6O8R3-9Wgkgytg';
+mapboxgl.accessToken = 'pk.eyJ1IjoiZ2VvdmFueS1kcm9zc2kiLCJhIjoiY21hYjNxNXl0MGFmMjJrc2Nsa3kyNGxvOCJ9.FU8meU8ZWAf8rOr-TREZZA';
 
 const map = new mapboxgl.Map({
     container: 'map',
@@ -30,7 +29,7 @@ const map = new mapboxgl.Map({
 map.on('load', function () {
     map.addSource('biens', {
         type: 'geojson',
-        data: 'biens.geojson'
+        data: './biens.geojson'
     });
 
     map.addLayer({
