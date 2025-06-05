@@ -1,20 +1,3 @@
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [7.473647, 43.758935]
-      },
-      "properties": {
-        "adresse": "Avenue Bedoux, Roquebrune-Cap-Martin",
-        "type": "Appartement (Location)",
-        "surface": 47.48,
-        "prix": 1330,
-        "pieces": 3
-      }
-    },
     {
       "type": "Feature",
       "geometry": {
