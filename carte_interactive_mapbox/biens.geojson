@@ -5,10 +5,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          7.473647,
-          43.758935
-        ]
+        "coordinates": [7.473647, 43.758935]
       },
       "properties": {
         "adresse": "Avenue Bedoux, Roquebrune-Cap-Martin",
@@ -22,10 +19,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          7.481329,
-          43.761773
-        ]
+        "coordinates": [7.481329, 43.761773]
       },
       "properties": {
         "adresse": "Avenue Francois de Monleon, Roquebrune-Cap-Martin",
@@ -39,10 +33,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          7.416941,
-          43.73847
-        ]
+        "coordinates": [7.416941, 43.73847]
       },
       "properties": {
         "adresse": "Boulevard des Monéghetti, Beausoleil",
@@ -56,10 +47,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          7.41803,
-          43.8842
-        ]
+        "coordinates": [7.41803, 43.8842]
       },
       "properties": {
         "adresse": "Impasse du Clos de la Vasta, Sospel",
@@ -73,27 +61,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          7.46072,
-          43.76494
-        ]
-      },
-      "properties": {
-        "adresse": "Rue de la Fontaine, Roquebrune-Cap-Martin",
-        "type": "Maison (Vente)",
-        "surface": 87.93,
-        "prix": 515000,
-        "pieces": 4
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.2877,
-          43.70897
-        ]
+        "coordinates": [7.2877, 43.70897]
       },
       "properties": {
         "adresse": "Rue de Roquebillière, Nice",
@@ -101,6 +69,21 @@
         "surface": 33.24,
         "prix": 132000,
         "pieces": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0197, 43.5749]
+      },
+      "properties": {
+        "adresse": "Le Cannet – Mairie / Pen Chai",
+        "type": "Appartement (Vente)",
+        "surface": 93,
+        "prix": 483000,
+        "pieces": 4,
+        "lien": "https://daisy-rossi.com/vente/le-cannet-appartement-4p-483-000-"
       }
     }
   ]
