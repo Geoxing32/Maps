@@ -1,0 +1,91 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.481329,
+          43.761773
+        ]
+      },
+      "properties": {
+        "adresse": "Avenue Francois de Monleon, Roquebrune-Cap-Martin",
+        "type": "Appartement (Vente)",
+        "surface": 21.0,
+        "prix": 145000,
+        "pieces": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.416941,
+          43.73847
+        ]
+      },
+      "properties": {
+        "adresse": "Boulevard des Mon\u00e9ghetti, Beausoleil",
+        "type": "Appartement (Vente)",
+        "surface": 53.0,
+        "prix": 399000,
+        "pieces": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.41803,
+          43.8842
+        ]
+      },
+      "properties": {
+        "adresse": "Impasse du Clos de la Vasta, Sospel",
+        "type": "Appartement (Vente)",
+        "surface": 52.31,
+        "prix": 218000,
+        "pieces": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2877,
+          43.70897
+        ]
+      },
+      "properties": {
+        "adresse": "Rue de Roquebilli\u00e8re, Nice",
+        "type": "Local (Vente)",
+        "surface": 33.24,
+        "prix": 132000,
+        "pieces": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0197,
+          43.5749
+        ]
+      },
+      "properties": {
+        "adresse": "Le Cannet \u2013 Mairie / Pen Chai",
+        "type": "Appartement (Vente)",
+        "surface": 93,
+        "prix": 483000,
+        "pieces": 4,
+        "lien": "https://daisy-rossi.com/vente/le-cannet-appartement-4p-483-000-"
+      }
+    }
+  ]
+}
